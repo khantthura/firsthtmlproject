@@ -1,8 +1,19 @@
 header {
-    background-color: #a6e3e9;
-}
+     background-color: #a6e3e9;
+ }
 body{
+    font-family: 'PT Sans Narrow', sans-serif;
     background-color: #ffe6eb;
+}
+h1 {
+    color: #182952;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+}
+h3 {
+    color: #2b3595;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
 }
 hr {
     width: 20%;
@@ -10,10 +21,4 @@ hr {
     border-top-style: dotted;
     border-width: 5px;
     border-color: #5893d4;
-}
-h1 {
-    color: #182952;
-}
-h3 {
-    color: #2b3595;
 }
